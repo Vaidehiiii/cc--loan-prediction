@@ -26,6 +26,7 @@ The predictions are combined with the original test dataset (test_data1).
 The predicted loan status values are added as a new column, 'Loan_Status', to the test_data1 DataFrame.
 
 
+
 Key Components:
 
   Loan_ID: A unique identifier for each loan application.
@@ -40,6 +41,7 @@ Key Components:
   
   Loan_Status: The target variable indicating loan approval (1) or rejection (0).
   
+
 
 Summary:
 
