@@ -1,6 +1,6 @@
 *Loan Prediction using RandomForestClassifier*
 
-  In this project, building a machine learning model to predict whether a loan application will be approved or not. You are using the RandomForestClassifier algorithm for this classification task. The dataset consists of various features related to loan applicants, such as gender, marital status, education, income, loan amount, credit history, and more. The goal is to train a model that can predict the loan status (approved or not approved) for new loan applications.
+  In this project, building a machine learning model to predict whether a loan application will be approved or not. We are using the RandomForestClassifier algorithm for this classification task. The dataset consists of various features related to loan applicants, such as gender, marital status, education, income, loan amount, credit history, and more. The goal is to train a model that can predict the loan status (approved or not approved) for new loan applications.
 
 
 Steps in the Project:
